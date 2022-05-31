@@ -1,0 +1,29 @@
+header, h1 {
+    text-align: center;
+}
+
+.encabezado {
+    color:#005677;
+    background-color: #C4C4C4;
+letter-spacing: 0.5em;
+padding: 0.3em;
+    }
+
+.sangria {
+    margin-left: 75px;
+}
+
+.sin-viñeta {
+list-style: none;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+}
+
+.contacto {
+    color:#fff;
+    font-size: 30px;
+}
+
